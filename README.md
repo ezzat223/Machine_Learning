@@ -1,13 +1,13 @@
 # Supervised
 
 ## Regression
-### Linear Regression
-### Polynomial features
-### Ridge, Lasso 
-### KNN Regression
-### GradientBoostingRegressor
-### DecisionTreeRegressor
-### RandomForestRegressor
+###     Linear Regression
+###     Polynomial features
+###     Ridge, Lasso 
+###     KNN Regression
+###     GradientBoostingRegressor
+###     DecisionTreeRegressor
+###     RandomForestRegressor
 
 ## Classification
 ### Logistic Regression
@@ -27,6 +27,7 @@
 
 ## Clustering
 ### KMeans
+### K-Medoids
 ### Agglomerative
 ### DBSCAN
 ### CLIQUE
